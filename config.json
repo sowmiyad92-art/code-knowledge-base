@@ -1,0 +1,60 @@
+{
+  "github_user": "sowmiyad92-art",
+  "repos": [
+    {
+      "name": "MCP-LangGraph-agent",
+      "private": false,
+      "description": "Current active build - LangGraph router with MCP"
+    },
+    {
+      "name": "job-alert-agent",
+      "private": true,
+      "description": "Live automation - multi-source job alerts"
+    },
+    {
+      "name": "news-brain-",
+      "private": false,
+      "description": "Live dashboard - earnings tracker for 80 media companies"
+    },
+    {
+      "name": "multi-agent-rag-chatbot",
+      "private": false,
+      "description": "RAG patterns - multi-agent system"
+    },
+    {
+      "name": "chatbot-assistant",
+      "private": false,
+      "description": "Aadsia - Streamlit chatbot with trust layer"
+    },
+    {
+      "name": "ResearchPilot",
+      "private": true,
+      "description": "3-agent Telegram research pipeline"
+    },
+    {
+      "name": "Cookwithlove",
+      "private": true,
+      "description": "Voice-to-Tamil-recipe Telegram bot"
+    },
+    {
+      "name": "Grounding-Check-In-Tool",
+      "private": false,
+      "description": "Check-in logic"
+    },
+    {
+      "name": "Media-Entertainment-News-Automation-System",
+      "private": false,
+      "description": "Scraper + automation patterns - daily news extraction"
+    },
+    {
+      "name": "excel-duplicate-checker-pro",
+      "private": false,
+      "description": "Flask + data processing - Excel duplicate detection"
+    },
+    {
+      "name": "n8n-automation-portfolio",
+      "private": false,
+      "description": "n8n workflows - automation patterns + ideas"
+    }
+  ]
+}
